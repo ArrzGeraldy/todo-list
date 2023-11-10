@@ -118,6 +118,10 @@ input[type=text]:focus{
     header{
         width: 350px;
     }
+
+    .list-value{
+        max-width: 230px;
+    }
 }
 
 
